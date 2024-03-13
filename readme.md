@@ -2,7 +2,7 @@
 
 ### Technologies required
 
-vscode, C# 
+VS Code, C# 
 
 ### How to use this repository 
 
