@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nim/Documents/BYU-Idaho/graduated/Cshark/01-hi-with-input/01-hi-with-input.csproj": {}
+    "/Users/nim/Documents/BYU-Idaho/graduated/C-michi/01-hi-with-input/01-hi-with-input.csproj": {}
   },
   "projects": {
-    "/Users/nim/Documents/BYU-Idaho/graduated/Cshark/01-hi-with-input/01-hi-with-input.csproj": {
+    "/Users/nim/Documents/BYU-Idaho/graduated/C-michi/01-hi-with-input/01-hi-with-input.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nim/Documents/BYU-Idaho/graduated/Cshark/01-hi-with-input/01-hi-with-input.csproj",
+        "projectUniqueName": "/Users/nim/Documents/BYU-Idaho/graduated/C-michi/01-hi-with-input/01-hi-with-input.csproj",
         "projectName": "01-hi-with-input",
-        "projectPath": "/Users/nim/Documents/BYU-Idaho/graduated/Cshark/01-hi-with-input/01-hi-with-input.csproj",
+        "projectPath": "/Users/nim/Documents/BYU-Idaho/graduated/C-michi/01-hi-with-input/01-hi-with-input.csproj",
         "packagesPath": "/Users/nim/.nuget/packages/",
-        "outputPath": "/Users/nim/Documents/BYU-Idaho/graduated/Cshark/01-hi-with-input/obj/",
+        "outputPath": "/Users/nim/Documents/BYU-Idaho/graduated/C-michi/01-hi-with-input/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nim/.nuget/NuGet/NuGet.Config"

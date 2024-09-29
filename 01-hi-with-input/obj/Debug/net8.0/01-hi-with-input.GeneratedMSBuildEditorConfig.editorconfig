@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _01_hi_with_input
-build_property.ProjectDir = /Users/nim/Documents/BYU-Idaho/graduated/Cshark/01-hi-with-input/
+build_property.ProjectDir = /Users/nim/Documents/BYU-Idaho/graduated/C-michi/01-hi-with-input/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
