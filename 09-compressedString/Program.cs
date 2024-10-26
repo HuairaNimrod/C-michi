@@ -13,7 +13,7 @@ namespace CompressedString{
 
             Program uncompress = new Program();
             var stringDicitonary = new Dictionary<string, int>();
-            string compressedString = "2[ab]1[c]3[d]";
+            string compressedString = "2[2[a]b]";
 
             // find values
             uncompress.uncompressString(compressedString, stringDicitonary);
